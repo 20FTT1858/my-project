@@ -22,6 +22,7 @@ import HelloWorld from './components/HelloWorld.vue'
           <dt class="text-sm font-medium text-gray-500">Course</dt>
           <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">Web Develoopment</dd>
         </div>
+        <p>My hobby is doing sport</p>
 </template>
 
 <style>
